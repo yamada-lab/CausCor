@@ -11,7 +11,7 @@ install.packages("CausCor")
 or from GitHub,
 ``` r
 # From GitHub
-devtools::install_github("sugym/CausCor")
+devtools::install_github("yamada-lab/CausCor")
 ```
 
 ## Packages used
